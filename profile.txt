@@ -1,2 +1,1 @@
- Name: Kundan 
- City: Noida 
+ Skills: Python, Java, MySQL 
